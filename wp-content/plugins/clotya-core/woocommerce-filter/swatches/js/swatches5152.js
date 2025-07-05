@@ -278,3 +278,4 @@ function(clotya, $) {
 
     }
 ).apply(this, [window.clotya, jQuery]);
+

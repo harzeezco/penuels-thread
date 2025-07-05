@@ -79,3 +79,4 @@
 		clotyaThemeModule.ajaxFilters();
 	});
 })(jQuery);
+

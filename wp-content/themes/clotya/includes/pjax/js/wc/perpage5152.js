@@ -33,3 +33,4 @@
 		clotyaThemeModule.perpage();
 	});
 })(jQuery);
+
